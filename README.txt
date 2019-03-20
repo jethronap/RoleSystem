@@ -1,7 +1,7 @@
-A Basic Cli Java Application With DAO & some SQL.\
+A Basic Cli Java Application With DAO, some MySQL & Password Hashing.\
 \
-Usernames and Passwords are the same. \
-They are also case sensitive.\
+Usernames equals to Passwords. \
+&& case sensitive.\
 Eg.\
 HeadMaster UserName: ProMar\
-HeadMaster PassWord: ProMar}
+HeadMaster PassWord: ProMar\
